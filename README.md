@@ -4,7 +4,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/github/stars/juukadev?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f)](https://github.com/demongamerdev)
+[![GitHub](https://img.shields.io/github/stars/shinob1kai?style=for-the-badge&logo=github&logoColor=%23ffffff&label=GitHub&labelColor=%234b0082&color=%231f1f1f)](https://github.com/shinob1kai)
 
 </div>
 
@@ -39,7 +39,7 @@ Non
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=demongamerdev&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinob1kai&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)](https://git.io/streak-stats)
 
 </div>
 
@@ -49,11 +49,11 @@ Non
 
 ### 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/demongamerdev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shinob1kai)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/918149823587307580)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=demongamerdev&color=a855f7&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=shinob1kai&color=a855f7&style=for-the-badge&label=Profile+Views)
 
 </div>
