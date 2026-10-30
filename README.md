@@ -33,9 +33,6 @@ Self-taught dev who likes building tools that solve one problem well — local A
 ### 🚀 Featured Projects
 
 - 🪟 **[FluentTB](https://github.com/shinob1kai/FluentTB)** - FluentTB is a Windows 11 taskbar customization tool.
-- 🖌️ **[iris](https://github.com/shinob1kai/iris)** – Local AI image generation, runs on your own GPU or CPU
-- 🗄️ **[SQLite-Studio](https://github.com/shinob1kai/SQLite-Studio)** – "Professional" SQLite database editor with visual schema designer
-- ⛏️ **[NetherStuff](https://github.com/shinob1kai/NetherStuff)** / **[End-Reimagined](https://github.com/shinob1kai/End-Reimagined)** – Minecraft mods expanding the Nether and End while try keeping the vanilla feel
 - 🎨 **[SVGShift](https://github.com/shinob1kai/SVGShift)** – Quick SVG-to-PNG conversion
 
 ---
