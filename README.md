@@ -41,8 +41,7 @@ Self-taught dev who likes building tools that solve one problem well — local A
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinob1kai&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=shinob1kai&theme=dark&border_radius=0&timezone=GMT%20%2B1)](https://git.io/streak-stats)
 </div>
 
 ---
